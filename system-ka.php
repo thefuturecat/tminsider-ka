@@ -17,7 +17,7 @@ $xmlData = <<<XML
 </game>
 <author>
     <login>tisytahu-pc60043f793f1a9</login>
-    <session>2338318</session>
+    <session>2338483</session>
 </author>
 <request>
     <name>LiveTick</name>
